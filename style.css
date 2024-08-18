@@ -4,7 +4,8 @@ html,body{
     margin: 0;
     padding: 0;
     background-color: #9cddf1;
-    background:url(https://img.freepik.com/free-vector/creative-geometric-design-space_53876-89787.jpg?t=st=1723395890~exp=1723399490~hmac=365f88c1347b34b031e482ee9c04f9c09a278d0fc3c8057e24801450be0e9ee5&w=996);
+     background:url(https://images.pexels.com/photos/1564334/nature-sky-milky-way-galaxy-1564334.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-position: center;
 }
 
 .navigation-bar{
